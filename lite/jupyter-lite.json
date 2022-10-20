@@ -1,0 +1,9 @@
+{
+  "jupyter-config-data": {
+    "collaborative": true,
+    "disabledExtensions": [
+        "@jupyterlite/javascript-kernel-extension",
+        "@jupyterlite/pyolite-kernel-extension"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64",
+  "build": "h2d74725_0",
+  "build_number": 0,
+  "depends": [
+    "vs2017_win-64"
+  ],
+  "license": "BSD",
+  "name": "cxx-compiler",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1661029870365,
+  "version": "1.5.0"
+}
