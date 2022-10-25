@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-10-25T15:42:32.626739Z",
+      "format": null,
+      "last_modified": "2022-10-25T15:41:22.317981Z",
+      "mimetype": null,
+      "name": "robotics_toolbox.ipynb",
+      "path": "robotics_toolbox.ipynb",
+      "size": 10315,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-10-25T15:42:32.626739Z",
+      "format": null,
+      "last_modified": "2022-10-25T15:41:22.321981Z",
+      "mimetype": null,
+      "name": "spatialmath_demo.ipynb",
+      "path": "spatialmath_demo.ipynb",
+      "size": 90971,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-10-25T15:42:32.622739Z",
+      "format": null,
+      "last_modified": "2022-10-25T15:41:22.317981Z",
+      "mimetype": null,
+      "name": "README",
+      "path": "README",
+      "size": 93,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-10-25T15:42:32.626739Z",
+  "format": "json",
+  "last_modified": "2022-10-25T15:42:32.626739Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
