@@ -1,7 +1,7 @@
 #!/bin/bash
 
 jupyter lite build \
-    --XeusPythonEnv.packages=spatialgeometry "spatialmath-python>=1.0.3" \
+    --XeusPythonEnv.packages=spatialgeometry,robotics-toolbox-python \
     --lite-dir lite \
     --output-dir _output \
     "$@"
